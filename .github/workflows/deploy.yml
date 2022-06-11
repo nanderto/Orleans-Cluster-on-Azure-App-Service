@@ -7,8 +7,8 @@ on:
 
 env:
   UNIQUE_APP_NAME: cartify
-  AZURE_RESOURCE_GROUP_NAME: orleans-resourcegroup
-  AZURE_RESOURCE_GROUP_LOCATION: centralus
+  AZURE_RESOURCE_GROUP_NAME: Shoppoing-Cart-rg
+  AZURE_RESOURCE_GROUP_LOCATION: West US 2
 
 jobs:
   build-and-deploy:
